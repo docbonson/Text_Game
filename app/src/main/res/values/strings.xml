@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text Game</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_choice_1">Choice 1</string>
+    <string name="btn_choice_2">Choice 2</string>
+    <string name="btn_choice_3">Choice 3</string>
+    <string name="btn_choice_4">Choice 4</string>
+    <string name="placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+</resources>
